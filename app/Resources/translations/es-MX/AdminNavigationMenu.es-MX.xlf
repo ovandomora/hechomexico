@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="classes/lang/TabLang.php" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      <trans-unit id="0b8d92bc19b720bb1065649535463409" approved="yes">
+        <source>Translations</source>
+        <target xml:lang="es-MX">Traducciones</target>
+        <note>Context:
+File: classes/lang/TabLang.php:144</note>
+      </trans-unit>
+      <trans-unit id="3068c5a98c003498f1fec0c489212e8b" approved="yes">
+        <source>Sell</source>
+        <target xml:lang="es-MX">Ventas</target>
+        <note>Context:
+File: classes/lang/TabLang.php:40</note>
+      </trans-unit>
+      <trans-unit id="10ac42c4d7dca450a66e8efbe8b00799" approved="yes">
+        <source>Improve</source>
+        <target xml:lang="es-MX">Mejoras</target>
+        <note>Context:
+File: classes/lang/TabLang.php:41</note>
+      </trans-unit>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf" approved="yes">
+        <source>Addresses</source>
+        <target xml:lang="es-MX">Direcciones</target>
+        <note>Context:
+File: classes/lang/TabLang.php:44</note>
+      </trans-unit>
+      <trans-unit id="7258e7251413465e0a3eb58094430bde" approved="yes">
+        <source>Administration</source>
+        <target xml:lang="es-MX">Administración</target>
+        <note>Context:
+File: classes/lang/TabLang.php:45</note>
+      </trans-unit>
+      <trans-unit id="d5f0ba6e06dd63bcb2b101779a024f97" approved="yes">
+        <source><![CDATA[Modules & Services]]></source>
+        <target xml:lang="es-MX"><![CDATA[Módulos y Servicios]]></target>
+        <note>Context:
+File: classes/lang/TabLang.php:46</note>
+      </trans-unit>
+      <trans-unit id="91f3a2c0e4424c87689525da44c4db11" approved="yes">
+        <source>Files</source>
+        <target xml:lang="es-MX">Archivos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:48</note>
+      </trans-unit>
+      <trans-unit id="20ad345341cfd791c1a3f9ef20c35577" approved="yes">
+        <source><![CDATA[Attributes & Features]]></source>
+        <target xml:lang="es-MX"><![CDATA[Atributos y Características]]></target>
+        <note>Context:
+File: classes/lang/TabLang.php:49</note>
+      </trans-unit>
+      <trans-unit id="287234a1ff35a314b5b6bc4e5828e745" approved="yes">
+        <source>Attributes</source>
+        <target xml:lang="es-MX">Atributos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:50</note>
+      </trans-unit>
+      <trans-unit id="914419aa32f04011357d3b604a86d7eb" approved="yes">
+        <source>Carrier</source>
+        <target xml:lang="es-MX">Paqueteria</target>
+        <note>Context:
+File: classes/lang/TabLang.php:52</note>
+      </trans-unit>
+      <trans-unit id="efcf628091b527cc576784186ac97de9" approved="yes">
+        <source>Page Categories</source>
+        <target xml:lang="es-MX">Categorías de páginas</target>
+        <note>Context:
+File: classes/lang/TabLang.php:57</note>
+      </trans-unit>
+      <trans-unit id="e693ba8db5bd43c8b27cf2eca19215ab" approved="yes">
+        <source>Customer Settings</source>
+        <target xml:lang="es-MX">Ajustes sobre clientes</target>
+        <note>Context:
+File: classes/lang/TabLang.php:68</note>
+      </trans-unit>
+      <trans-unit id="e307db07b3975fef922a80d07455ee5e" approved="yes">
+        <source>Database</source>
+        <target xml:lang="es-MX">Base de datos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:71</note>
+      </trans-unit>
+      <trans-unit id="ac848fa228f49ba2b8a5fbd76596817d" approved="yes">
+        <source>Team</source>
+        <target xml:lang="es-MX">Equipo</target>
+        <note>Context:
+File: classes/lang/TabLang.php:76</note>
+      </trans-unit>
+      <trans-unit id="4c99c66c65d5cc7f1c5ef76302aa9988" approved="yes">
+        <source>Image Settings</source>
+        <target xml:lang="es-MX">Ajustes de imágenes</target>
+        <note>Context:
+File: classes/lang/TabLang.php:81</note>
+      </trans-unit>
+      <trans-unit id="eebd338ddbd547e41e4a1296de82963a" approved="yes">
+        <source>Locations</source>
+        <target xml:lang="es-MX">Ubicaciones Geográficas</target>
+        <note>Context:
+File: classes/lang/TabLang.php:89</note>
+      </trans-unit>
+      <trans-unit id="1afa74da05ca145d3418aad9af510109" approved="yes">
+        <source>Design</source>
+        <target xml:lang="es-MX">Diseño</target>
+        <note>Context:
+File: classes/lang/TabLang.php:92</note>
+      </trans-unit>
+      <trans-unit id="aa1550e5c6de2f5e7867edbf0f019118" approved="yes">
+        <source><![CDATA[Brands & Suppliers]]></source>
+        <target xml:lang="es-MX"><![CDATA[Marcas y Proveedores]]></target>
+        <note>Context:
+File: classes/lang/TabLang.php:94</note>
+      </trans-unit>
+      <trans-unit id="d72eaa592e6b1b6f30787d67a70422b7" approved="yes">
+        <source>Order Settings</source>
+        <target xml:lang="es-MX">Configuración de Pedidos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:103</note>
+      </trans-unit>
+      <trans-unit id="af01f8c298aa063d9c7490f00eddd2df" approved="yes">
+        <source>Payment Methods</source>
+        <target xml:lang="es-MX">Métodos de pago</target>
+        <note>Context:
+File: classes/lang/TabLang.php:106</note>
+      </trans-unit>
+      <trans-unit id="3821c92eff2643b0d1ccdce26d2e8e48" approved="yes">
+        <source>Product Settings</source>
+        <target xml:lang="es-MX">Configuración de Productos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:113</note>
+      </trans-unit>
+      <trans-unit id="cf39aaa3dadb081e301236a4abf5e5f4" approved="yes">
+        <source>Shop Parameters</source>
+        <target xml:lang="es-MX">Parámetros de la tienda</target>
+        <note>Context:
+File: classes/lang/TabLang.php:122</note>
+      </trans-unit>
+      <trans-unit id="6ab9fb0c40f36bc078afaacf74c91215" approved="yes">
+        <source>Theme Catalog</source>
+        <target xml:lang="es-MX">Catálogo de Temas</target>
+        <note>Context:
+File: classes/lang/TabLang.php:140</note>
+      </trans-unit>
+      <trans-unit id="fcf3b725bb6ebb0e635b0f0902ade451" approved="yes">
+        <source><![CDATA[Theme & Logo]]></source>
+        <target xml:lang="es-MX"><![CDATA[Tema y logotipo]]></target>
+        <note>Context:
+File: classes/lang/TabLang.php:141</note>
+      </trans-unit>
+      <trans-unit id="c11004c9bfd6ca3b95f052f0df3e8f21" approved="yes">
+        <source><![CDATA[Traffic & SEO]]></source>
+        <target xml:lang="es-MX"><![CDATA[Tráfico & SEO]]></target>
+        <note>Context:
+File: classes/lang/TabLang.php:143</note>
+      </trans-unit>
+      <trans-unit id="58366edba8b92e2955f237fe5897dad5" approved="yes">
+        <source>Modules Catalog</source>
+        <target xml:lang="es-MX">Catálogo de Módulos</target>
+        <note>Context:
+File: classes/lang/TabLang.php:148</note>
+      </trans-unit>
+      <trans-unit id="f388bc3eaa4b9f72756a75693a12559d" approved="yes">
+        <source>Installed modules</source>
+        <target xml:lang="es-MX">Módulos instalados</target>
+        <note>Context:
+File: classes/lang/TabLang.php:152</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Controller/Admin/ModuleController.php" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      <trans-unit id="8e750875217fe72ff73cda7e57e4d61f" approved="yes">
+        <source>Module selection</source>
+        <target xml:lang="es-MX">Selección de módulo</target>
+        <note>Context:
+File: src/PrestaShopBundle/Controller/Admin/ModuleController.php:80</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="install-dev/upgrade/php/add_new_status_stock.php" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      <trans-unit id="27ce7f8b5623b2e2df568d64cf051607" approved="yes">
+        <source>Stock</source>
+        <target xml:lang="es-MX">Existencias</target>
+        <note>Context:
+File: install-dev/upgrade/php/add_new_status_stock.php:68</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
